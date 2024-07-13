@@ -8,6 +8,8 @@ Welcome to our website!
 
 [Project Template](https://open-sol.github.io/project-template) - Make your project into a github pages site!
 
+[.github](https://open-sol.github.io/.github) - About us
+
 ## Copyright
 
 This site and all the projects linked above are available under [The Sol License](https://open-sol.github.io/license).
