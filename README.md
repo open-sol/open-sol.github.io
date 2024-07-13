@@ -1,4 +1,4 @@
-# Open Sol
+# [![Open Sol](https://open-sol.github.io/logo-small.svg)](https://open-sol.github.io/)
 
 Welcome to our website!
 
