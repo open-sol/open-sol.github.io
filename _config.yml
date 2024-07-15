@@ -6,7 +6,7 @@ author:
 description: >
   Website for open-sol
 
-theme: minima
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
