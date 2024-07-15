@@ -1,4 +1,4 @@
-# Welcome to our website!
+Welcome to our website!
 
 ## Projects
 
