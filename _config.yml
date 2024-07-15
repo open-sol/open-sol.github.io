@@ -12,4 +12,4 @@ plugins:
   - jekyll-seo-tag
 
 minima:
-  skin: auto
+  skin: solarized
