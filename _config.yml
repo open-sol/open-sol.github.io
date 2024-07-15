@@ -3,8 +3,7 @@ author:
   name: admin
   email: admin@191512.xyz
 
-description: >
-  Website for open-sol
+description: Website for open-sol
 
 remote_theme: jekyll/minima
 
