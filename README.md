@@ -1,4 +1,4 @@
-# [![Open Sol](https://191512.xyz/logo-small.svg)](https://191512.xyz/)
+# [Open Sol](https://191512.xyz/)
 
 Welcome to our website!
 
